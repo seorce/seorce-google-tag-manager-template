@@ -1,7 +1,5 @@
 homepage: "https://seorce.com"
 documentation: "https://github.com/YOUR_GITHUB_ORG/seorce-google-tag-manager-template#readme"
 versions:
-  # Latest version first. Replace the sha with the full commit SHA of the
-  # commit that contains the template.tpl you want to publish.
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: 39956b7f30d60141979f17d10ba81e67301a7da3
     changeNotes: Initial release.
